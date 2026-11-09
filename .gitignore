@@ -1,0 +1,29 @@
+# IDE and operating-system clutter
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and package outputs
+**/bin/
+**/obj/
+**/artifacts/
+**/build/
+**/node_modules/
+*.log
+*.tmp
+*.bak
+*.pdb
+*.cache
+renderer-check.ppm
+**/test-results.txt
+*.zip
+
+# Local settings / runtime
+UltimateArena-crash.txt
+settings.json
